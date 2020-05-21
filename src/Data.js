@@ -15,31 +15,31 @@ export default
        projects:[
            {
             id: 1,
-            title:'Project One', 
-             service:'', 
-             imageSrc:'',
-             url:''
+            title:'Doctor and Doctor', 
+             service:'AJAX | Jquery | Bootsrap', 
+             imageSrc:'https://i.ibb.co/D7FCnH7/Capture1.png',
+             url:'https://github.com/Finch23/Project1'
             },
             {
                 id: 2,
-                title: 'Project Two',
-                service: '',
-                imageSrc: '',
-                url: ''
+                title: 'Quest for the Net',
+                service: 'MySQL | Node | Express | Handlebars ',
+                imageSrc: 'https://i.ibb.co/CsdHctm/project2.png',
+                url: 'https://github.com/gwlee244/project2'
             },
             { 
                 id: 3,
-                title: 'Project Three',
-                service: '',
-                imageSrc: "",
-                url: ''
+                title: 'Coding Quiz',
+                service: 'Javascript | HTML | CSS',
+                imageSrc: 'https://i.ibb.co/ykSvZFS/screenshot.png',
+                url: 'https://github.com/Finch23/Coding_Quiz'
             },
             {
                 id: 4,
-                title: 'Project Four',
-                service: '',
-                imageSrc: "",
-                url: ''
+                title: 'Star Wars',
+                service: 'HTML | Express | Javascript',
+                imageSrc: 'https://i.ibb.co/QrKBhcf/Capture.png',
+                url: 'https://github.com/Finch23/nicf-starwars'
            }
         ],
         social: [
