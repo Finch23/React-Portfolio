@@ -10,9 +10,6 @@ React app that displays information about myself along with projects that I have
 
 Clone the repo to your local machine. npm i to install dependecies. 
 
-## Screenshot
-
-
 ## Meta
 
 Nicholas Finch
