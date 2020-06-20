@@ -11,6 +11,7 @@ class Header extends Component {
         <div>
         <h1 className='heading-background'>Portfolio</h1>
             <header>
+            {data.ShowAboutImage ? <img src={data.aboutImage} alt='about' style={{borderRadius: '5%', width: '100px', height: '100px'}}></img> : null}
                 <h1>
                     <Fade bottom cascade>{data.name}</Fade></h1>
             </header>

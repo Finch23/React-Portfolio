@@ -15,7 +15,7 @@ export default
        projects:[
            {
             id: 1,
-            title:'Doctor and Doctor', 
+            title:'Doctor and Diet', 
              service:'AJAX | Jquery | Bootsrap', 
              imageSrc:'https://i.ibb.co/D7FCnH7/Capture1.png',
              url:'https://github.com/Finch23/Project1'
@@ -29,17 +29,17 @@ export default
             },
             { 
                 id: 3,
-                title: 'Coding Quiz',
+                title: 'Password Generator',
                 service: 'Javascript | HTML | CSS',
-                imageSrc: 'https://i.ibb.co/ykSvZFS/screenshot.png',
-                url: 'https://github.com/Finch23/Coding_Quiz'
+                imageSrc: "https://i.ibb.co/B6WH95f/Capture.png",
+                url: 'https://github.com/Finch23/Random-Password'
             },
             {
                 id: 4,
-                title: 'Star Wars',
-                service: 'HTML | Express | Javascript',
-                imageSrc: 'https://i.ibb.co/QrKBhcf/Capture.png',
-                url: 'https://github.com/Finch23/nicf-starwars'
+                title: 'Motivate Me',
+                service: 'React | Express | Passport | MongoDB',
+                imageSrc: "https://i.ibb.co/crHqgPS/84715507-a3d99400-af3e-11ea-958e-0e1aa019c808.png",
+                url: 'https://github.com/Finch23/Motivate-Me'
            }
         ],
         social: [
