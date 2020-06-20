@@ -52,7 +52,7 @@ export default
             },
             {
                 name: 'Resume',
-                url: 'https://drive.google.com/open?id=1Je12-CQLFTwxwsYBAq6eqsIxqwPmt2rg'
+                url: 'https://drive.google.com/file/d/1IuxStIAdj6dw_Vg1aEcGSnrIf_bvaNQ9/view?usp=sharing'
             }
         ]
     }
