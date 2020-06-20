@@ -7,7 +7,7 @@ export default
             'Greensboro, North Carolina'
           ],
         contactEmail:'nicfinch223@gmail.com',
-        abouttext: "I had originally gotten my Associate's degree in IT from a local Community College. After little success in the job hunt, I decided to further my education with the UNC coding bootcamp. Currently, I am a server at Red Robin and have been for 2 years. Although I think writing code is a good challenge my dream job would be in music production. I love playing the piano and I am very interested in learning more instruments. I am a deeply motivated programmer, I love learning new things and continuing to challenge myself.",
+        abouttext: "I had originally obtained my Associate's degree in IT from Alamance Community College. After little success in the job hunt, I decided to further my education with the UNC coding bootcamp. Currently, I am a server at Red Robin and have been for 2 years. Although I think writing code is a good challenge my dream job would be in music production. I love playing the piano and I am very interested in learning more instruments. I am a deeply motivated programmer, I love learning new things and continuing to challenge myself.",
         aboutImage: 'https://avatars2.githubusercontent.com/u/57764795?s=400&u=4be80bacf42ba1b0d47a387ebdf1df1081456dcd&v=4',
 
        ShowAboutImage:true,
