@@ -1,5 +1,5 @@
 # React Portfolio
-> This is a simple React application about myself!
+> This is a React application about myself!
 
 
 ## Description
