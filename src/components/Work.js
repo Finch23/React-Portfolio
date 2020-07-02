@@ -10,6 +10,7 @@ class Work extends Component {
         <div>
         <h1 className='heading'>
         <Fade bottom cascade>Projects.</Fade></h1>
+        <h3>Click the picture for the repo | Click deploy to view the app</h3>
         <div className='work-content'>
                 {data.projects.map((project)=>(
                     <Project key={project.id}
@@ -17,6 +18,7 @@ class Work extends Component {
                              service = {project.service}
                              imageSrc = {project.imageSrc}
                              url={project.url}
+                             deploy={project.deploy}
                      ></Project>
                 ))}
         </div>

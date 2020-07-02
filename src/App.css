@@ -11,6 +11,15 @@ body{
   z-index: 1;
 }
 
+.deploy{
+  height: 45px;
+  width: 70px;
+  border-color: #1a2a6c;
+  background-color: #b21f1f;
+  margin-top: 15px;
+  border-radius: 50%;
+}
+
 .App {
   text-align: center;
 }

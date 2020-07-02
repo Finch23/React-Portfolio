@@ -12,6 +12,8 @@ class Project extends Component {
             </a>
             <h1>{this.props.title}</h1>
             <span>{this.props.service}</span>
+            <br></br>
+            <button class='deploy'><a rel='noopener noreferrer' href={this.props.deploy} target='_blank'> Deploy</a></button>
         </div> 
             </Fade>);
     }
