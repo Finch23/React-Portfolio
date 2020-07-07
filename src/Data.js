@@ -7,7 +7,7 @@ export default
             'Greensboro, North Carolina'
           ],
         contactEmail:'nicfinch223@gmail.com',
-        abouttext: "In May 2019 I earned my Associate's degree in IT from Alamance Community College. After that, I decided to further my education with the UNC coding bootcamp and earned my Full Stack Web Development Certificate. Passionate web developer with skills in Node.js, Express, JavaScript, jQuery, React.js, React, JSX, GIT, GitHub, MongoDB, MySQL, Mongoose, Handlebars, HTML, CSS, Bootstrap, Materialize, APIs, Heroku, Terminal, ES6+. Deeply motivated programmer, I love learning new things and continuing to challenge myself.",
+        abouttext: "I obtained my Associate's degree in IT from Alamance Community College. I decided to further my education with the UNC coding bootcamp and gained my Full Stack Web Development Certificate. Passionate web developer with skills in Node.js, Express, JavaScript, jQuery, React.js, React, JSX, GIT, GitHub, MongoDB, MySQL, Mongoose, Handlebars, HTML, CSS, Bootstrap, Materialize, APIs, Heroku, Terminal, ES6+. Deeply motivated programmer, I love learning new things and continuing to challenge myself.",
         aboutImage: 'https://avatars2.githubusercontent.com/u/57764795?s=400&u=4be80bacf42ba1b0d47a387ebdf1df1081456dcd&v=4',
 
        ShowAboutImage:true,
